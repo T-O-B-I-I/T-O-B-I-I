@@ -9,12 +9,14 @@
   
   - Nationality: Indian.
   
+  -Age: 16+
 
   - Cuurently Residing in Bhubnewar, Odisha, India.
   
   ![ ◥ᎪNᏦush™◤ ](https://github-readme-stats.vercel.app/api/top-langs/?username=T-O-B-I-I&theme=blue-green)
   
 
+  
  </i> 
  
  ## Programming Languages I've Learned :
