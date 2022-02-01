@@ -48,7 +48,7 @@
 
 ## Stats
 
-[![github stats](https://github-readme-stats.vercel.app/api?username=L-LawlieT-T&show_icons=true&theme=radical)](https://github.com/T-O-B-I-I)
+[![github stats](https://github-readme-stats.vercel.app/api?username=T-O-B-I-I&show_icons=true&theme=radical)](https://github.com/T-O-B-I-I)
 
 <h2>🎧 Now Vibing On 🎧</h2>
 
