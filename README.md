@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 
-<p align="center"><a href="https://github.com/T-O-B-I-I"><img src="https://i.pinimg.com/originals/e4/00/6e/e4006e3588486731c8191e86edabdd0a.gif" width="1000px">
+<p align="center"><a href="https://github.com/T-O-B-I-I"><img src="https://i.pinimg.com/originals/2f/56/90/2f5690ee185f5345025b1a5b0bf2c8aa.gif" width="1000px">
 </a></p> 
 
 
