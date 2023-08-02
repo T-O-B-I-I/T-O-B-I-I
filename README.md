@@ -1,4 +1,6 @@
-[]## Hi I'm Ankush <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
+<h1 align="center">Hi there, My Name Is Ankush Sahoo</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="Whats Up">
 
 [![](https://i.pinimg.com/originals/e4/00/6e/e4006e3588486731c8191e86edabdd0a.gif)](https://github.com/T-O-B-I-I)
 
