@@ -126,3 +126,15 @@ class AboutT-O-B-I-I():
 
 ![Metrics](https://metrics.lecoq.io/T-O-B-I-I?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FJakarta)
 
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/T-O-B-I-I/T-O-B-I-I/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/T-O-B-I-I/T-O-B-I-I/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/T-O-B-I-I/T-O-B-I-I/output/github-contribution-grid-snake.svg" />
+  </picture>
+</div>
+
+<hr>
+
